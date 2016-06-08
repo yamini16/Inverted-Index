@@ -1,0 +1,23 @@
+
+
+
+
+				File: Size.txt
+				Time taken to create Index: 2m 343s
+				InvertedIndex.txt: 360.5 kB (3,60,526 bytes)
+				cran.all.1400: 1.6 MB (16,44,706 bytes)
+				The invertedIndex is approx 4.5x smaller than the dataset
+			
+				File: Stats.txt
+				Number of Documents = 1400
+				Number of words in collection = 218515
+				Number of unique words in collection = 7405
+				Number of entries in Inverted Index = 4483
+				Length of shortest postings list = 1
+				Length of longest postings list = 702
+				Average Length of postings list = 16.8824447914
+
+				NOTE: Number of words in collection includes all words (not stemmed).	
+				Its is essentially the number of words in the entire corpus.
+
+				Number of unique words in collection also incudes both all the words, not stemmed.

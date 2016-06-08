@@ -1,0 +1,4 @@
+Time taken to create Index: 2m 343s
+InvertedIndex.tat: 360.5 kB (3,60,526 bytes)
+cran.all.1400: 1.6 MB (16,44,706 bytes)
+The invertedIndex is approx 4.5x smaller than the dataset

@@ -1,0 +1,12 @@
+Number of Documents = 1400
+Number of words in collection = 218515
+Number of unique words in collection = 7405
+Number of entries in Inverted Index = 4483
+Length of shortest postings list = 1
+Length of longest postings list = 702
+Average Length of postings list = 16.8824447914
+
+NOTE: Number of words in collection includes all words (not stemmed).
+Its is essentially the number of words in the entire corpus.
+
+Number of unique words in collection also incudes both all the words, not stemmed.
